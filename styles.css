@@ -1,0 +1,44 @@
+section {
+    background-color: rgb(241, 206, 206);
+    padding: 0;
+    height: 450px;
+}
+
+aside {
+    background-color: rgb(139, 121, 150);
+    padding: 0;
+}
+
+main {
+    width: 100%;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.aside-main1 {
+    height: 450px;
+}
+
+footer {
+    background-color: rgb(56, 51, 56);
+    height: 200px;
+}
+
+.aside-main1 img{
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.aside-main1 .card {
+    height: 100%;
+}
+
+nav {
+
+}
