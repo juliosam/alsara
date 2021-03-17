@@ -42,10 +42,6 @@ footer {
         height: 750px;
     }
 
-    .section-main1 img { 
-        height: 250px;
-    }
-
     .aside-main1 .card-text {
         font-size: 25px;
     }
@@ -53,6 +49,13 @@ footer {
         font-size: 40px;
     }
     
+    .section-main1 img{ 
+        height: 650px;
+    }
+
+    section {
+        height: 650px;
+    }
 
 }
 
