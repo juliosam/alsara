@@ -39,6 +39,20 @@ header a img {
     width: 100px;
 }
 
+.section-2 {
+    height: 400 px ;
+}
+
+.section-2 h1 {
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.section-2 .row .card {
+    height: 100%;
+}
+
 @media (max-width: 580px) {
 
     .aside-main1 {
